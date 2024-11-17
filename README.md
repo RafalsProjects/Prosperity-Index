@@ -18,4 +18,4 @@ Całościowo za projekt można otrzymać 30 punktów. Na pulę punktów składaj
 - Przygotowanie danych w excelu zgodnie z wymaganiami i wprowadzenie poprawek wnotebooku polegających np. na poprawieniu typu kolumny, jeśli jest taka potrzeba.
 - Przeprowadzenie normalizacji danych.
 - Wyznaczenie średniej ważonej.
-- Zaprezentowanie pięciu najlepszych i najgorszych krajów w formie skróconej tabeli zawierającej wyłącznie nazwy tych krajów i wartości średnich ważonych."""
+- Zaprezentowanie pięciu najlepszych i najgorszych krajów w formie skróconej tabeli zawierającej wyłącznie nazwy tych krajów i wartości średnich ważonych.
