@@ -7,7 +7,7 @@ A total of 30 points can be awarded for a project. The pool of points consists o
 - Preparing the data in excel as required and making corrections in the notebook consisting, for example, of correcting the column type if necessary.
 - Performing data normalisation.
 - Determination of a weighted average.
-- Presenting the five best and worst countries in the form of a summary table containing only the names of these countries and the values of the weighted averages."""
+- Presenting the five best and worst countries in the form of a summary table containing only the names of these countries and the values of the weighted averages.
 
 # Polish
 ## Opis projektu
