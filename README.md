@@ -1,10 +1,6 @@
 # English
 # Project description
-The project consists of the construction of a macroeconomic index, using a self-completed
-database. We carry it out in groups established in the Macroeconomics class. In a word
-whatever we consider relevant in terms of assessing how liveable a region is. At
-basis, we determine a weighted average of the normalised variables and create a ranking of the
-of the countries analysed.
+The project consists of the construction of a macroeconomic index, using a self-completed database. We carry it out in groups established in the Macroeconomics class. In a word whatever we consider relevant in terms of assessing how liveable a region is. At basis, we determine a weighted average of the normalised variables and create a ranking of the of the countries analysed.
 
 # Proseprity-index
 A total of 30 points can be awarded for a project. The pool of points consists of:
@@ -15,11 +11,7 @@ A total of 30 points can be awarded for a project. The pool of points consists o
 
 # Polish
 ## Opis projektu
-Projekt polega na konstrukcji makroekonomicznego indeksu, wykorzystującego samodzielnie skompletowaną
-bazę danych. Realizujemy go w grupach ustalonych na zajęciach z Makroekonomii. Jednym słowem
-cokolwiek, co uważamy za istotne w kontekście oceniania jak przyjaznym do życia jest dany region. Na
-podstawie takiej bazy wyznaczamy średnią ważoną znormalizowanych zmiennych i tworzymy ranking
-analizowanych krajów.
+Projekt polega na konstrukcji makroekonomicznego indeksu, wykorzystującego samodzielnie skompletowaną bazę danych. Realizujemy go w grupach ustalonych na zajęciach z Makroekonomii. Jednym słowem cokolwiek, co uważamy za istotne w kontekście oceniania jak przyjaznym do życia jest dany region. Na podstawie takiej bazy wyznaczamy średnią ważoną znormalizowanych zmiennych i tworzymy ranking analizowanych krajów.
 
 ## Proseprity-index 
 Całościowo za projekt można otrzymać 30 punktów. Na pulę punktów składają się:
