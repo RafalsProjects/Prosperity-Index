@@ -1,19 +1,3 @@
-
-"""Całościowo za projekt można otrzymać 30 punktów. Na pulę punktów składają się:
-
-[20pkt] Zadania z notebooka z modułu siódmego, wprowadzającego do pandas.
-
-[10pkt] Realizacja projektu w formie notebooka zaprezentowana przez wybraną osobę z grupy.
-
-[3pkt] Przygotowanie danych w excelu zgodnie z wymaganiami i wprowadzenie poprawek wnotebooku polegających np. na poprawieniu typu kolumny, jeśli jest taka potrzeba.
-
-[2pkt] Przeprowadzenie normalizacji danych.
-
-[3pkt] Wyznaczenie średniej ważonej.
-
-[2pkt] Zaprezentowanie pięciu najlepszych i najgorszych krajów w formie skróconej tabeli zawierającej wyłącznie nazwy tych krajów i wartości średnich ważonych."""
-
-
 import pandas as pd # importujemy pandas jako pd
 import numpy as np # import numpy as np
 import matplotlib.pyplot as plt
